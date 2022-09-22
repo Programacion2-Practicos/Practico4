@@ -1,6 +1,6 @@
 package consola;
 import logica.*;
-public class principal_becado {
+public class PrincipalBecado {
 
 	public static void main(String[] args) {
 		Fecha f= new Fecha(18,1,2000);
@@ -13,8 +13,10 @@ public class principal_becado {
 		b2.setSaldoBeca(3000);
 		
 		Alumno a1 = new Alumno(b2.getApellido(), b2.getGrupo(), b2.getCuotaBase(), b2.getNacimiento());
+    System.out.println("a1 es: "+a1.toString());
 		System.out.println("la cuota neta de a1 es: "+a1.cuotaNeta());
-		System.out.println("la cuota de b1 es: "+b1.cuotaNeta());
+		System.out.println("b2 es: "+b2.toString());
+    System.out.println("la cuota de b2 es: "+b2.cuotaNeta());
 	}
 
 }

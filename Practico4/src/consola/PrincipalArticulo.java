@@ -1,7 +1,7 @@
 package consola;
 import logica.*;
 import java.util.Scanner;
-public class Principal_Articulo {
+public class PrincipalArticulo {
 	static Scanner teclado = new Scanner(System.in);
 	public static void main(String[] args) {
 			Fecha f1=new Fecha(12,3,2022);
