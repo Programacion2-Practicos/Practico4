@@ -7,3 +7,5 @@
 3) Este proyecto quedará como plantilla para comenzar proyectos
 
 4) Si cambia la estructura del Proyecto, hay que modificar el archivo **run.sh** para que funcione en replit
+
+# ACTUALIZAR, PONER LETRA DE LOS EJERCICIOS
