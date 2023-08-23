@@ -18,4 +18,4 @@
 
 ### public double precioVenta(): Los artículos Importados suman al precioVenta original un 80% de su impuesto si su anioImportacion es menor o igual a 2008. Caso contrario se agrega un 100% del valor del impuesto.
 
-### ATENCIÓN: Cuando suban su proyecto como vimos en clase, borran la carpeta que deje que se llama **Nacionales**
+
