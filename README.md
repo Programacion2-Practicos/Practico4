@@ -3,7 +3,7 @@
 #### • **Nacional**: Incluye además los atributos departamento (String) y subsidiado (boolean).
 #### • **Importado**: Incluye además los atributos impuesto (double) y anioImportacion (int).
 ### Ambas incluyen una versión sobre-escrita al método precioVenta().
- >** Nota:** Para realizar el diagrama puede usar el programa Dia (como se muestra en la grabación de la clase del día 3 de junio). Una vez realizado lo puedo subir aquí mismo, desde los tres puntos - upload file
+
 
 ### b) (Clase Articulo):
 #### Fue desarrollada en la tarea anterior, copie el código a este proyecto 
