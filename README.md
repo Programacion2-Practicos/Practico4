@@ -1,4 +1,4 @@
-# ARTÍCULOS NACIONALES e IMPORTADOS
+# ARTÍCULOS NACIONALES e IMPORTADOS 
 ### 1- a) **(Diagrama de clases)**: Al diagrama realizado en la tarea anterior sobre la clase **Articulo**, se le agregan dos clases relacionadas por herencia con Articulo:
 #### • **Nacional**: Incluye además los atributos departamento (String) y subsidiado (boolean).
 #### • **Importado**: Incluye además los atributos impuesto (double) y anioImportacion (int).
